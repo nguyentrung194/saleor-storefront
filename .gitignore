@@ -4,7 +4,7 @@
 !.circle
 !.eslintrc
 !.gitignore
-!.github
+# !.github
 !.babelrc
 !.plop
 !.jest
@@ -21,7 +21,7 @@ schema.graphql
 dist
 node_modules
 src/locales/_build
-
+.github
 cypress/videos
 cypress/screenshots
 cypress/fixtures/example.json
