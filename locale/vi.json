@@ -1,6 +1,6 @@
 {
   "@next_dot_components_dot_atoms_dot_AddNewTile_dot_AddNewTile_dot_2493765518": {
-    "string": "Add new {type}"
+    "string": "Thêm mới {type}"
   },
   "@next_dot_components_dot_atoms_dot_DemoBanner_dot_DemoBanner_dot_214739616": {
     "string": "Play with <emphasis>GraphQL API</emphasis>"
@@ -15,25 +15,25 @@
     "string": "Trang Quản Trị"
   },
   "@next_dot_components_dot_atoms_dot_DropdownSelect_dot_DropdownSelect_dot_3280510613": {
-    "string": "Sort by:"
+    "string": "Sắp xếp theo:"
   },
   "@next_dot_components_dot_molecules_dot_AccountMenuMobile_dot_AccountMenuMobile_dot_2132071990": {
-    "string": "Go to"
+    "string": "Đi đến"
   },
   "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_AccountTile_dot_3253048083": {
-    "string": "Personal details"
+    "string": "Thông tin cá nhân"
   },
   "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_AccountTile_dot_3843483622": {
-    "string": "MY DATA"
+    "string": "Dữ liệu của tôi"
   },
   "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_PasswordChangeForm_dot_1254879564": {
-    "string": "Mật Khẩu Mới"
+    "string": "Mật khẩu mới"
   },
   "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_PasswordChangeForm_dot_2218114941": {
-    "string": "Old Password"
+    "string": "Mật khẩu cũ"
   },
   "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_PasswordChangeForm_dot_2369435044": {
-    "string": "Required field"
+    "string": "Phần bắt buộc"
   },
   "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_PasswordChangeForm_dot_2799926859": {
     "string": "Xác Nhận Mật Khẩu"
@@ -42,10 +42,10 @@
     "string": "Mật khẩu không khớp"
   },
   "@next_dot_components_dot_molecules_dot_AccountTabTiles_dot_PasswordTile_dot_3445609170": {
-    "string": "MY PASSWORD"
+    "string": "Mật khẩu của tôi"
   },
   "@next_dot_components_dot_molecules_dot_AddToCartButton_dot_AddToCartButton_dot_81047562": {
-    "string": "Add to basket"
+    "string": "Thêm vào giỏ hàng"
   },
   "@next_dot_components_dot_molecules_dot_AddressTile_dot_AddressTile_dot_1224809208": {
     "string": "Địa Chỉ Mặc Định"
@@ -63,40 +63,40 @@
     "string": "Địa Chỉ Nhận Hàng Mặc Định"
   },
   "@next_dot_components_dot_molecules_dot_AttributeValuesChecklist_dot_AttributeValuesChecklist_dot_2029012727": {
-    "string": "VIEW ALL OPTIONS"
+    "string": "XEM TẤT CẢ CÁC TÙY CHỌN"
   },
   "@next_dot_components_dot_molecules_dot_OrderTable_dot_OrderTable_dot_1148029984": {
     "string": "Giá trị"
   },
   "@next_dot_components_dot_molecules_dot_OrderTable_dot_OrderTable_dot_1633831221": {
-    "string": "Date of Order"
+    "string": "Ngày đặt hàng"
   },
   "@next_dot_components_dot_molecules_dot_OrderTable_dot_OrderTable_dot_2387666633": {
-    "string": "Index Number"
+    "string": "STT"
   },
   "@next_dot_components_dot_molecules_dot_OrderTable_dot_OrderTable_dot_724329054": {
-    "string": "Products Ordered"
+    "string": "Sản phẩm đã đặt"
   },
   "@next_dot_components_dot_molecules_dot_ProductDescription_dot_ProductDescription_dot_2623707255": {
-    "string": "DESCRIPTION"
+    "string": "MÔ TẢ"
   },
   "@next_dot_components_dot_molecules_dot_ProductDescription_dot_ProductDescription_dot_308156425": {
-    "string": "ATTRIBUTES"
+    "string": "THUỘC TÍNH"
   },
   "@next_dot_components_dot_molecules_dot_ProductListHeader_dot_ProductListHeader_dot_3317426832": {
-    "string": "Products found:"
+    "string": "Sản phẩm được tìm thấy:"
   },
   "@next_dot_components_dot_molecules_dot_ResetPasswordForm_dot_ResetPasswordForm_dot_1865992141": {
-    "string": "Please provide new password"
+    "string": "Vui lòng cung cấp mật khẩu mới"
   },
   "@next_dot_components_dot_molecules_dot_ResetPasswordForm_dot_ResetPasswordForm_dot_2266763214": {
-    "string": "Retype password"
+    "string": "Nhập lại mật khẩu"
   },
   "@next_dot_components_dot_molecules_dot_ResetPasswordForm_dot_ResetPasswordForm_dot_2746979176": {
     "string": "It seems that token for password reset is not valid anymore."
   },
   "@next_dot_components_dot_molecules_dot_ResetPasswordForm_dot_ResetPasswordForm_dot_3951836694": {
-    "string": "SET NEW PASSWORD"
+    "string": "ĐẶT MẬT KHẨU MỚI"
   },
   "@next_dot_components_dot_molecules_dot_ResetPasswordForm_dot_ResetPasswordForm_dot_4028609483": {
     "string": "Đặt lại mật khẩu của bạn"
@@ -114,61 +114,61 @@
     "string": "ZIP/Postal Code"
   },
   "@next_dot_components_dot_organisms_dot_AddressForm_dot_AddressFormContent_dot_2950411968": {
-    "string": "Company Name (Optional)"
+    "string": "Tổ chức (Lựa chọn)"
   },
   "@next_dot_components_dot_organisms_dot_AddressForm_dot_AddressFormContent_dot_3121963259": {
     "string": "Địa chỉ - dòng 2"
   },
   "@next_dot_components_dot_organisms_dot_AddressForm_dot_AddressFormContent_dot_404705399": {
-    "string": "State/province"
+    "string": "Tỉnh"
   },
   "@next_dot_components_dot_organisms_dot_AddressGridSelector_dot_AddressGridSelector_dot_2132027491": {
-    "string": "address"
+    "string": "địa chỉ"
   },
   "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenConfirmationErrorMessages_dot_cancelled": {
     "context": "Adyen payment gateway error",
-    "string": "Payment was cancelled."
+    "string": "Thanh toán đã bị hủy."
   },
   "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenConfirmationErrorMessages_dot_error": {
     "context": "Adyen payment gateway error",
-    "string": "Error processing payment occured."
+    "string": "Đã xảy ra lỗi khi xử lý thanh toán."
   },
   "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenConfirmationErrorMessages_dot_general": {
     "context": "Adyen payment gateway error",
-    "string": "Payment confirmation went wrong."
+    "string": "Xác nhận thanh toán bị lỗi."
   },
   "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenConfirmationErrorMessages_dot_refused": {
     "context": "Adyen payment gateway error",
-    "string": "The payment was refused. Try the payment again using a different payment method or card."
+    "string": "Khoản thanh toán đã bị từ chối. Hãy thử thanh toán lại bằng một phương thức hoặc thẻ thanh toán khác."
   },
   "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenErrorMessages_dot_cannotHandlePaymentConfirmation": {
     "context": "Adyen payment gateway error",
-    "string": "Payment gateway did not provide payment confirmation handler."
+    "string": "Cổng thanh toán không cung cấp trình xử lý xác nhận thanh toán."
   },
   "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenErrorMessages_dot_invalidPaymentSubmission": {
     "context": "Adyen payment gateway error",
-    "string": "Invalid payment submission."
+    "string": "Gửi thanh toán không hợp lệ."
   },
   "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenErrorMessages_dot_paymentMalformedConfirmationData": {
     "context": "Adyen payment gateway error",
-    "string": "Payment needs confirmation but data required for confirmation received from the server is malformed."
+    "string": "Thanh toán cần xác nhận thông tin cần thiết để xác nhận."
   },
   "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenErrorMessages_dot_paymentNoConfirmationData": {
     "context": "Adyen payment gateway error",
-    "string": "Payment needs confirmation but data required for confirmation not received from the server."
+    "string": "Thanh toán cần xác nhận thông tin cần thiết để xác nhận."
   },
   "@next_dot_components_dot_organisms_dot_AdyenPaymentGateway_dot_AdyenPaymentGateway_dot_adyenErrorMessages_dot_unknownPayment": {
     "context": "Adyen payment gateway error",
-    "string": "Unknown payment submission error occured."
+    "string": "Đã xảy ra lỗi gửi thanh toán không xác định."
   },
   "@next_dot_components_dot_organisms_dot_CartSummary_dot_CartSummary_dot_2088494495": {
-    "string": "Cart Summary"
+    "string": "Giỏ hàng"
   },
   "@next_dot_components_dot_organisms_dot_CheckoutAddress_dot_CheckoutAddress_dot_3912924864": {
     "string": "Giống địa chỉ nhận hàng"
   },
   "@next_dot_components_dot_organisms_dot_CheckoutPayment_dot_CheckoutPayment_dot_3382401165": {
-    "string": "Do you have a gift card voucher or discount code?"
+    "string": "Bạn có một phiếu quà tặng hoặc mã giảm giá?"
   },
   "@next_dot_components_dot_organisms_dot_CheckoutReview_dot_CheckoutReview_dot_348821000": {
     "string": "Phương thức thanh toán"
@@ -186,46 +186,46 @@
     "string": "More +"
   },
   "@next_dot_components_dot_organisms_dot_ProductVariantPicker_dot_ProductVariantAttributeSelect_dot_1125254976": {
-    "string": "Please select {selectLabel}"
+    "string": "Vui lòng chọn {selectLabel}"
   },
   "@next_dot_components_dot_organisms_dot_ThankYou_dot_ThankYou_dot_1995277831": {
-    "string": "Thank you"
+    "string": "Cảm ơn bạn"
   },
   "@next_dot_components_dot_organisms_dot_ThankYou_dot_ThankYou_dot_2116351823": {
-    "string": "for your order!"
+    "string": "bạn đã đặt hàng!"
   },
   "@next_dot_components_dot_organisms_dot_ThankYou_dot_ThankYou_dot_2999163789": {
-    "string": "Your order number is"
+    "string": "số đơn đặt hàng là"
   },
   "@next_dot_components_dot_organisms_dot_ThankYou_dot_ThankYou_dot_3364990704": {
-    "string": "We’ve emailed you an order confirmation, and we’ll notify you when the order has been shipped."
+    "string": "Chúng tôi đã gửi email xác nhận đơn hàng cho bạn và chúng tôi sẽ thông báo cho bạn khi đơn hàng đã được giao."
   },
   "@next_dot_components_dot_organisms_dot_ThankYou_dot_ThankYou_dot_3752098833": {
-    "string": "ORDER DETAILS"
+    "string": "CHI TIẾT ĐẶT HÀNG"
   },
   "@next_dot_components_dot_templates_dot_CartEmpty_dot_CartEmpty_dot_2488840083": {
     "string": "looks empty"
   },
   "@next_dot_components_dot_templates_dot_CartEmpty_dot_CartEmpty_dot_2896212356": {
-    "string": "Maybe you haven’t made your choices yet"
+    "string": "Có thể bạn chưa đưa ra lựa chọn của mình"
   },
   "@next_dot_components_dot_templates_dot_CartEmpty_dot_CartEmpty_dot_3578601618": {
     "string": "Giỏ hàng"
   },
   "@next_dot_pages_dot_CartPage_dot_CartPage_dot_1304869656": {
-    "string": "PROCEED TO CHECKOUT"
+    "string": "TIẾN HÀNH KIỂM TRA"
   },
   "@next_dot_pages_dot_CartPage_dot_CartPage_dot_3173718889": {
-    "string": "My Cart"
+    "string": "Giỏ hàng của tôi"
   },
   "@next_dot_pages_dot_CheckoutPage_dot_subpages_dot_CheckoutAddressSubpage_dot_2558335134": {
-    "string": "Please provide billing address."
+    "string": "Vui lòng cung cấp địa chỉ thanh toán."
   },
   "@next_dot_pages_dot_CheckoutPage_dot_subpages_dot_CheckoutAddressSubpage_dot_929802659": {
-    "string": "Please provide shipping address."
+    "string": "Vui lòng cung cấp địa chỉ giao hàng."
   },
   "@next_dot_pages_dot_OrdersHistory_dot_OrdersHistory_dot_1138265409": {
-    "string": "Load more"
+    "string": "Tải thêm"
   },
   "account_dot_AddressBook_dot_AddressBook_dot_2776756156": {
     "string": "Thay đổi địa chỉ"
@@ -234,167 +234,167 @@
     "string": "To update the application to the latest version, please refresh the page!"
   },
   "app_dot_Notifications_dot_1308518649": {
-    "string": "Refresh"
+    "string": "Làm mới"
   },
   "app_dot_Notifications_dot_1917823234": {
-    "string": "You are now logged in"
+    "string": "Bạn đã đăng nhập"
   },
   "app_dot_Notifications_dot_2378877294": {
-    "string": "You are now logged out"
+    "string": "Bạn đã đăng xuất"
   },
   "app_dot_Notifications_dot_795565": {
-    "string": "New version is available!"
+    "string": "Có phiên bản mới!"
   },
   "components_dot_Breadcrumbs_dot_index_dot_1347475195": {
     "string": "Quay lại"
   },
   "components_dot_CartTable_dot_Table_dot_1603950169": {
-    "string": "Delivery Cost"
+    "string": "Chi phí giao hàng"
   },
   "components_dot_CartTable_dot_Table_dot_2179891060": {
-    "string": "Total Cost"
+    "string": "Tổng chi phí"
   },
   "components_dot_CartTable_dot_Table_dot_2875988277": {
-    "string": "Discount: {discountName}"
+    "string": "Giảm giá: {discountName}"
   },
   "components_dot_CheckoutLogin_dot_CheckoutAsGuest_dot_1006283488": {
-    "string": "Continue as a guest"
+    "string": "Tiếp tục với tư cách khách"
   },
   "components_dot_CheckoutLogin_dot_CheckoutAsGuest_dot_2132450234": {
-    "string": "create an account"
+    "string": "Tạo tài khoản"
   },
   "components_dot_CheckoutLogin_dot_CheckoutAsGuest_dot_3896074202": {
-    "string": "or you can"
+    "string": "hoặc bạn có thể"
   },
   "components_dot_CheckoutLogin_dot_CheckoutAsGuest_dot_647198093": {
-    "string": "If you don’t wish to register an account, don’t worry. You can checkout as a guest. We care about you just as much as any registered user."
+    "string": "Nếu bạn không muốn đăng ký tài khoản, đừng lo lắng. Bạn có thể thanh toán với tư cách khách. Chúng tôi quan tâm đến bạn nhiều như bất kỳ người dùng đã đăng ký nào."
   },
   "components_dot_CheckoutLogin_dot_SignInForm_dot_2856837597": {
-    "string": "Registered user"
+    "string": "Người dùng đã đăng kí"
   },
   "components_dot_LoginForm_dot_index_dot_1405865627": {
-    "string": "Sign in"
+    "string": "Đăng nhập"
   },
   "components_dot_MainMenu_dot_MainMenu_dot_4144939532": {
-    "string": "Offline"
+    "string": "Ngoại tuyến"
   },
   "components_dot_NotFound_dot_index_dot_1723676032": {
     "string": "Về trang chủ"
   },
   "components_dot_NotFound_dot_index_dot_1782529840": {
-    "string": "You may have mistyped the address or the page may have moved."
+    "string": "Bạn có thể đã nhập sai địa chỉ hoặc trang có thể đã bị di chuyển."
   },
   "components_dot_NotFound_dot_index_dot_3141549744": {
-    "string": "We’re sorry for the error and hope you’ll have a good day."
+    "string": "Chúng tôi rất tiếc về lỗi này và hy vọng bạn sẽ có một ngày tốt lành."
   },
   "components_dot_NotFound_dot_index_dot_3478767873": {
     "string": "404"
   },
   "components_dot_NotFound_dot_index_dot_680965574": {
-    "string": "We can’t seem to find a page you are looking for!"
+    "string": "Chúng tôi dường như không thể tìm thấy trang mà bạn đang tìm kiếm!"
   },
   "components_dot_OverlayManager_dot_Cart_dot_Cart_dot_1316031908": {
-    "string": "My bag,"
+    "string": "Giỏ hàng,"
   },
   "components_dot_OverlayManager_dot_Cart_dot_Cart_dot_1397761112": {
     "context": "items quantity in cart",
     "string": "{itemsQuantity,plural,one {{itemsQuantity} item} other {{itemsQuantity} items}}"
   },
   "components_dot_OverlayManager_dot_Cart_dot_Cart_dot_2426849470": {
-    "string": "Go to my bag"
+    "string": "Đi đến giỏ hàng"
   },
   "components_dot_OverlayManager_dot_Cart_dot_Empty_dot_3515754810": {
-    "string": "Continue Shopping"
+    "string": "Tiếp tục mua"
   },
   "components_dot_OverlayManager_dot_Cart_dot_Empty_dot_4121934554": {
-    "string": "You haven’t added anything to your bag. We’re sure you’ll find something in our store"
+    "string": "Bạn chưa thêm bất cứ thứ gì vào túi của mình. Chúng tôi chắc chắn rằng bạn sẽ tìm thấy thứ gì đó trong cửa hàng của chúng tôi"
   },
   "components_dot_OverlayManager_dot_Cart_dot_Empty_dot_966560142": {
-    "string": "Your bag is empty"
+    "string": "Giỏ hàng trống"
   },
   "components_dot_OverlayManager_dot_Cart_dot_ProductList_dot_3897981513": {
-    "string": "Qty: {quantity}"
+    "string": "Số lượng: {quantity}"
   },
   "components_dot_OverlayManager_dot_Login_dot_ForgottenPassword_dot_1214263298": {
-    "string": "Have you forgotten your password?"
+    "string": "Bạn đã quên mật khẩu của mình?"
   },
   "components_dot_OverlayManager_dot_Login_dot_ForgottenPassword_dot_1781368875": {
-    "string": "Click Here"
+    "string": "Bấm vào đây"
   },
   "components_dot_OverlayManager_dot_Login_dot_RegisterForm_dot_2556234295": {
     "string": "Tạo tài khoản"
   },
   "components_dot_OverlayManager_dot_Login_dot_RegisterForm_dot_2622394113": {
-    "string": "Please check your e-mail for further instructions"
+    "string": "Vui lòng kiểm tra e-mail của bạn để được hướng dẫn thêm"
   },
   "components_dot_OverlayManager_dot_Login_dot_RegisterForm_dot_590842025": {
-    "string": "New user has been created"
+    "string": "Người dùng đã được tạo"
   },
   "components_dot_OverlayManager_dot_Login_dot_index_dot_282922692": {
-    "string": "Saleor account"
+    "string": "Tài khoản người bán"
   },
   "components_dot_OverlayManager_dot_Login_dot_index_dot_3254057623": {
-    "string": "Register new account"
+    "string": "Đăng ký tài khoản mới"
   },
   "components_dot_OverlayManager_dot_Login_dot_index_dot_3293735236": {
-    "string": "Sign in to account"
+    "string": "Đăng nhập vào tài khoản"
   },
   "components_dot_OverlayManager_dot_Password_dot_index_dot_4028609483": {
     "string": "Đặt lại mật khẩu của bạn"
   },
   "components_dot_OverlayManager_dot_Search_dot_NothingFound_dot_1777769494": {
-    "string": "Don’t give up - check the spelling, think of something less specific and then use the search bar above."
+    "string": "Đừng bỏ cuộc - hãy kiểm tra chính tả, nghĩ về điều gì đó ít cụ thể hơn và sau đó sử dụng thanh tìm kiếm ở trên."
   },
   "components_dot_OverlayManager_dot_Search_dot_NothingFound_dot_3166222023": {
-    "string": "Sorry, but we couldn’t match any search results for: {search}"
+    "string": "Xin lỗi, chúng tôi không thể so khớp bất kỳ kết quả tìm kiếm nào cho: {search}"
   },
   "components_dot_OverlayManager_dot_Search_dot_Search_dot_4112727608": {
-    "string": "Show all results"
+    "string": "Hiển thị tất cả kết quả"
   },
   "components_dot_PasswordResetRequestForm_dot_index_dot_1587628595": {
-    "string": "Check your inbox"
+    "string": "Kiểm tra hộp thư của bạn"
   },
   "components_dot_PasswordResetRequestForm_dot_index_dot_2925394684": {
-    "string": "Reset password"
+    "string": "Đặt lại mật khẩu"
   },
   "components_dot_PasswordResetRequestForm_dot_index_dot_805890313": {
-    "string": "Please provide us your email address so we can share you a link to reset your password"
+    "string": "Vui lòng cung cấp cho chúng tôi địa chỉ email của bạn để chúng tôi có thể chia sẻ cho bạn một liên kết để đặt lại mật khẩu của bạn"
   },
   "components_dot_Select_dot_SelectOptionsList_dot_1394135378": {
-    "string": "No Options"
+    "string": "Không có lựa chọn"
   },
   "intl_dot_checkoutMessages_dot_addNewAddress": {
-    "string": "Add new address"
+    "string": "thêm địa chỉ mới"
   },
   "intl_dot_checkoutMessages_dot_addressNextActionName": {
-    "string": "Continue to Shipping"
+    "string": "Tiếp tục vận chuyển"
   },
   "intl_dot_checkoutMessages_dot_billingAddress": {
-    "string": "BILLING ADDRESS"
+    "string": "ĐỊA CHỈ THANH TOÁN"
   },
   "intl_dot_checkoutMessages_dot_continueShopping": {
-    "string": "CONTINUE SHOPPING"
+    "string": "TIẾP TỤC MUA SẮM"
   },
   "intl_dot_checkoutMessages_dot_paymentMethod": {
-    "string": "PAYMENT METHOD"
+    "string": "PHƯƠNG THỨC THANH TOÁN"
   },
   "intl_dot_checkoutMessages_dot_paymentNextActionName": {
-    "string": "Continue to Review"
+    "string": "Tiếp tục đánh giá"
   },
   "intl_dot_checkoutMessages_dot_reviewNextActionName": {
-    "string": "Place order"
+    "string": "Đặt hàng"
   },
   "intl_dot_checkoutMessages_dot_reviewOrder": {
-    "string": "REVIEW ORDER"
+    "string": "XEM LẠI ĐƠN HÀNG"
   },
   "intl_dot_checkoutMessages_dot_shippingAddress": {
     "string": "Địa Chỉ Vận Chuyển"
   },
   "intl_dot_checkoutMessages_dot_shippingMethod": {
-    "string": "SHIPPING METHOD"
+    "string": "Phương thức vận chuyển"
   },
   "intl_dot_checkoutMessages_dot_shippingNextActionName": {
-    "string": "Continue to Payment"
+    "string": "Tiếp tục thanh toán"
   },
   "intl_dot_checkoutMessages_dot_stepNameAddress": {
     "string": "Địa chỉ"
@@ -403,7 +403,7 @@
     "string": "Thanh Toán"
   },
   "intl_dot_checkoutMessages_dot_stepNameReview": {
-    "string": "Review"
+    "string": "Xem lại"
   },
   "intl_dot_checkoutMessages_dot_stepNameShipping": {
     "string": "Vận chuyển"
@@ -415,7 +415,7 @@
     "string": "Thêm"
   },
   "intl_dot_commonMessages_dot_addressBook": {
-    "string": "Address book"
+    "string": "Địa chỉ"
   },
   "intl_dot_commonMessages_dot_cancel": {
     "string": "Hủy"
@@ -424,16 +424,16 @@
     "string": "Thanh toán"
   },
   "intl_dot_commonMessages_dot_choosePaymentMethod": {
-    "string": "Please choose payment method."
+    "string": "Vui lòng chọn phương thức thanh toán."
   },
   "intl_dot_commonMessages_dot_clearFilterHeader": {
-    "string": "CLEAR FILTERS"
+    "string": "XÓA BỘ LỌC"
   },
   "intl_dot_commonMessages_dot_eMail": {
     "string": "Địa chỉ Email"
   },
   "intl_dot_commonMessages_dot_filterHeader": {
-    "string": "FILTERS"
+    "string": "BỘ LỌC"
   },
   "intl_dot_commonMessages_dot_firstName": {
     "string": "Tên Riêng"
@@ -448,28 +448,28 @@
     "string": "Loading"
   },
   "intl_dot_commonMessages_dot_logOut": {
-    "string": "Log Out"
+    "string": "Đăng xuất"
   },
   "intl_dot_commonMessages_dot_lowStock": {
     "string": "Low stock"
   },
   "intl_dot_commonMessages_dot_maxQtyIs": {
-    "string": "Maximum quantity is {maxQuantity}"
+    "string": "Số lượng tối đa là: {maxQuantity}"
   },
   "intl_dot_commonMessages_dot_myAccount": {
-    "string": "My Account"
+    "string": "Tài khoản của tôi"
   },
   "intl_dot_commonMessages_dot_noItemsAvailable": {
-    "string": "No items available"
+    "string": "Không có mặt hàng nào"
   },
   "intl_dot_commonMessages_dot_noPurchaseAvailable": {
-    "string": "Not available for purchase"
+    "string": "Mặt hàng đã hết"
   },
   "intl_dot_commonMessages_dot_orderHistory": {
-    "string": "Order history"
+    "string": "Lịch sử mua hàng"
   },
   "intl_dot_commonMessages_dot_outOfStock": {
-    "string": "Out of stock"
+    "string": "Hết hàng"
   },
   "intl_dot_commonMessages_dot_password": {
     "string": "Mật khẩu"
@@ -478,7 +478,7 @@
     "string": "Điện Thoại"
   },
   "intl_dot_commonMessages_dot_phoneNumber": {
-    "string": "Phone number: {phone}"
+    "string": "Số điện thoại: {phone}"
   },
   "intl_dot_commonMessages_dot_price": {
     "string": "Giá"
@@ -490,10 +490,10 @@
     "string": "Mã khuyến mãi"
   },
   "intl_dot_commonMessages_dot_provideEmailAddress": {
-    "string": "Please provide email address."
+    "string": "Vui lòng cung cấp địa chỉ email."
   },
   "intl_dot_commonMessages_dot_purchaseAvailableOn": {
-    "string": "Will become available for purchase on {date} at {time}"
+    "string": "Sẽ có sẵn để mua vào {date} lúc {time}"
   },
   "intl_dot_commonMessages_dot_qty": {
     "string": "Số lượng"
@@ -505,7 +505,7 @@
     "string": "Lưu"
   },
   "intl_dot_commonMessages_dot_search": {
-    "string": "search"
+    "string": "tìm kiếm"
   },
   "intl_dot_commonMessages_dot_shipping": {
     "string": "Vận chuyển"
@@ -529,7 +529,7 @@
     "string": "Tổng"
   },
   "intl_dot_commonMessages_dot_totalPrice": {
-    "string": "Total Price"
+    "string": "Tổng tiền"
   },
   "intl_dot_commonMessages_dot_variant": {
     "string": "Biến Thể"
@@ -571,35 +571,35 @@
     "string": "Clear..."
   },
   "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsName": {
-    "string": "Name Increasing"
+    "string": "Name A-Z"
   },
   "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsNameDsc": {
-    "string": "Name Decreasing"
+    "string": "Name Z-A"
   },
   "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsPrice": {
-    "string": "Price Low-High"
+    "string": "Giá thấp->cao"
   },
   "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsPriceDsc": {
-    "string": "Price High-Low"
+    "string": "Giá cao->thấp"
   },
   "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsUpdatedAt": {
-    "string": "Last updated Ascending"
+    "string": "Cập nhật A-Z"
   },
   "intl_dot_prodListHeaderCommonMsg_dot_sortOptionsUpdatedAtDsc": {
-    "string": "Last updated Descending"
+    "string": "Cập nhật Z-A"
   },
   "userAccount_dot_views_dot_OrderDetails_dot_Page_dot_1857586798": {
-    "string": "Your order no.: {orderNum}"
+    "string": "Đơn hàng số.: {orderNum}"
   },
   "userAccount_dot_views_dot_OrderDetails_dot_Page_dot_2670827143": {
     "context": "action in popup menu in order view",
-    "string": "Download invoice"
+    "string": "Lưu hóa đơn"
   },
   "userAccount_dot_views_dot_OrderDetails_dot_Page_dot_624688748": {
-    "string": "Go back to Order History"
+    "string": "Quay lại Lịch sử đặt hàng"
   },
   "views_dot_Home_dot_Page_dot_2366307429": {
-    "string": "Final reduction"
+    "string": "Giảm cuối cùng"
   },
   "views_dot_Home_dot_Page_dot_2812648978": {
     "string": "Featured"
@@ -608,15 +608,15 @@
     "string": "Shop sale"
   },
   "views_dot_Home_dot_Page_dot_3813745889": {
-    "string": "Shop by category"
+    "string": "Theo danh mục"
   },
   "views_dot_Home_dot_Page_dot_4153800196": {
-    "string": "Up to 70% off sale"
+    "string": "Giảm giá tới 70%"
   },
   "views_dot_Product_dot_Other_dot_3212906417": {
-    "string": "Other products in this category"
+    "string": "Các sản phẩm khác trong danh mục này"
   },
   "views_dot_Search_dot_Page_dot_2865432515": {
-    "string": "Search term:"
+    "string": "Tìm kiếm sản phẩm:"
   }
 }
